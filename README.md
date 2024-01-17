@@ -1,6 +1,6 @@
-# React + Vite
+# React + Vite + Noon Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is Jawan Pakistan Assignment for the Noon Clone. This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
